@@ -1,0 +1,14 @@
+{
+    "logFileName":    "stonkAlerts.log",
+    "loggingEnabled": true,
+    "telegramBotId":  "Your Bot ID here",
+    "telegramChatId": "Your Chat ID here",
+    "percentDropped": 100,
+    "recentPeak":     5,
+    "recentTrend":    1,
+    "tickers": [
+        "ABCDEFG",
+        "HIJKLMN",
+        "OPQR"
+    ]
+}
